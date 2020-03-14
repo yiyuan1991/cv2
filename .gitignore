@@ -1,6 +1,8 @@
-*.gem
-.bundle
-.sass-cache
-_site
-Gemfile.lock
-*.code-workspace
+.DS_Store
+node_modules
+*.log
+.temp
+vuepress
+TODOs.md
+dist
+deploy
