@@ -11,7 +11,7 @@ socials:
     link: https://github.com/yiyuan1991
   - title: email
     icon: "/cv1/icons/email.svg"
-    link: 'mailto:yyshawn[at]163.com'
+    link: 'mailto:yyshawn@163.com'
 
 # cv: https://en.wikipedia.org/wiki/Harry_Potter
 bio: CV Reasearcher at Netease Fuxi AI Lab
@@ -36,7 +36,7 @@ Sept 1991 - 1997
 
 ## Publications
 
-<ProjectCard image="/projects/8.png" hideBorder=true>
+<ProjectCard image="/projects/8.jpg" hideBorder=true>
 
   **Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks**
 
@@ -48,7 +48,7 @@ Sept 1991 - 1997
 
 </ProjectCard>
 
-<ProjectCard hideBorder=true>
+<ProjectCard image="/projects/7.jpg" hideBorder=true>
 
   **Fast and Robust Face-to-Parameter Translation for Game Character Auto-creation**
   
@@ -58,7 +58,7 @@ Sept 1991 - 1997
 
 </ProjectCard>
 
-<ProjectCard hideBorder=true>
+<ProjectCard image="/projects/6.jpg" hideBorder=true>
 
   **FDN: Feature Decoupling Network for Head Pose Estimation**
   
@@ -68,7 +68,7 @@ Sept 1991 - 1997
 
 </ProjectCard>
 
-<ProjectCard image="/projects/5.png" hideBorder=true>
+<ProjectCard image="/projects/5.jpg" hideBorder=true>
 
   **Face-to-Parameter Translation for Game Character Auto-Creation**
   
@@ -80,7 +80,7 @@ Sept 1991 - 1997
 
 </ProjectCard>
 
-<ProjectCard image="/projects/4.png" hideBorder=true>
+<ProjectCard image="/projects/4.jpg" hideBorder=true>
 
   **NeuroSkinning: Automatic Skin Binding for Production Characters with Deep Graph Networks**
   
@@ -92,7 +92,7 @@ Sept 1991 - 1997
 
 </ProjectCard>
 
-<ProjectCard image="/projects/3.png" hideBorder=true>
+<ProjectCard image="/projects/3.jpg" hideBorder=true>
 
   **Random Forest and Objected-Based Classification for Forest Pest Extraction from UAV Aerial Imagery**
   
@@ -104,7 +104,7 @@ Sept 1991 - 1997
 
 </ProjectCard>
 
-<ProjectCard image="/projects/2.png" hideBorder=true>
+<ProjectCard image="/projects/2.jpg" hideBorder=true>
 
   **Deep-Learning-Based Classification for DTM Extraction from ALS Point Cloud**
   
@@ -116,7 +116,7 @@ Sept 1991 - 1997
 
 </ProjectCard>
 
-<ProjectCard image="/projects/1.png" hideBorder=true>
+<ProjectCard image="/projects/1.jpg" hideBorder=true>
 
   **Bag-of-Words and Object-Based Classification for Cloud Extraction From Satellite Imagery**
   
