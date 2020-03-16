@@ -1,22 +1,24 @@
 module.exports = {
-  title: "Harry Potter",
+  title: "Yi Yuan",
   description: "The description of the site.",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
-  base: "/",
+  base: "/cv1/",
   dest: "./dist",
 
   themeConfig: {
     search: false,
+    /*
     nav: [
       { text: "Home", link: "/" },
       { text: "About", link: "/about/" },
       { text: "Projects", link: "/projects/" },
       { text: "Guide", link: "/guide/" },
-      { text: "GitHub", link: "https://github.com/mtobeiyf/vuepress-homepage" }
+      { text: "GitHub", link: "https://github.com/yiyuan1991" }
     ],
     sidebar: {
       '/guide/': genSidebarConfig('Guide')
     },
+    */
     lastUpdated: 'Last Updated'
   },
 

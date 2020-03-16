@@ -2,12 +2,12 @@
 pageClass: about-page
 description: 'The biography and information about me.'
 avatar: /profile.jpg
-head: 'Harry Potter'
+head: 'Yi Yuan'
 info: 'Student at Hogwarts School'
 interests: 'Interests: Quidditch and Wizard chess.'
 socials:
 - title: github
-  link: https://github.com/mtobeiyf
+  link: https://github.com/yiyuan1991
 - title: linkedin
   link: https://www.linkedin.com
 - title: instagram
@@ -18,10 +18,10 @@ actions:
 - text: Projects
   link: /projects/
 - text: Blog
-  link: https://github.com/mtobeiyf
+  link: https://github.com/yiyuan1991
 - text: CV
   link: /article/
-footer: Made with ♥ by Fing. Powered by VuePress
+footer: Powered by VuePress
 ---
 
 <AboutCard :frontmatter="$page.frontmatter" >
