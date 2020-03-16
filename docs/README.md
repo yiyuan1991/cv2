@@ -36,7 +36,7 @@ Sept 1991 - 1997
 
 ## Publications
 
-<ProjectCard image="/projects/1.png" hideBorder=true>
+<ProjectCard image="/projects/8.png" hideBorder=true>
 
   **Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks**
 
@@ -68,7 +68,7 @@ Sept 1991 - 1997
 
 </ProjectCard>
 
-<ProjectCard hideBorder=true>
+<ProjectCard image="/projects/5.png" hideBorder=true>
 
   **Face-to-Parameter Translation for Game Character Auto-Creation**
   
@@ -80,7 +80,7 @@ Sept 1991 - 1997
 
 </ProjectCard>
 
-<ProjectCard hideBorder=true>
+<ProjectCard image="/projects/4.png" hideBorder=true>
 
   **NeuroSkinning: Automatic Skin Binding for Production Characters with Deep Graph Networks**
   
@@ -88,10 +88,11 @@ Sept 1991 - 1997
 
   ACM Transactions on Graphics (SIGGRAPH), 2019 (Oral)
 
-  [[PDF](http://fuxi.163.com/thesis/neuro.html)]
+  [[PDF](https://nos.netease.com/mg-file/mg/neteasegamecampus/art_works/20190624/201906242016238583.pdf)] [[Data](http://fuxi.163.com/thesis/neuro.html)] 
 
 </ProjectCard>
-<ProjectCard hideBorder=true>
+
+<ProjectCard image="/projects/3.png" hideBorder=true>
 
   **Random Forest and Objected-Based Classification for Forest Pest Extraction from UAV Aerial Imagery**
   
@@ -103,7 +104,7 @@ Sept 1991 - 1997
 
 </ProjectCard>
 
-<ProjectCard hideBorder=true>
+<ProjectCard image="/projects/2.png" hideBorder=true>
 
   **Deep-Learning-Based Classification for DTM Extraction from ALS Point Cloud**
   
@@ -115,7 +116,7 @@ Sept 1991 - 1997
 
 </ProjectCard>
 
-<ProjectCard hideBorder=true>
+<ProjectCard image="/projects/1.png" hideBorder=true>
 
   **Bag-of-Words and Object-Based Classification for Cloud Extraction From Satellite Imagery**
   
