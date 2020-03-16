@@ -1,0 +1,25 @@
+# Skills
+# face recons
+- skill: Towards High-Fidelity 3D Face Reconstruction from In-the-Wild Images Using Graph Convolutional Networks
+  description: <p>Jiangke Lin, <b>Yi Yuan*</b>, Tianjia Shao, Kun Zhou </p>  <p>Computer Vision and Pattern Recognition (<b>CVPR</b>), 2020, <a href="https://arxiv.org/abs/2003.05653">[PDF]</a></p>
+
+- skill: Fast and Robust Face-to-Parameter Translation for Game Character Auto-creation
+  description: <p>Tianyang Shi, Zhengxia Zou, <b>Yi Yuan*</b>, Changjie Fan</p><p>the Association for the Advance of Artificial Intelligence (<b>AAAI</b>), 2020 </p>
+
+- skill: FDN&#58 Feature Decoupling Network for Head Pose Estimation
+  description: <p>Hao Zhang, Mengmeng Wang, Yong Liu, <b>Yi Yuan</b></p> <p>the Association for the Advance of Artificial Intelligence (<b>AAAI</b>), 2020 </p>
+
+- skill: Face-to-Parameter Translation for Game Character Auto-Creation
+  description: <p>Tianyang Shi, <b>Yi Yuan*</b>, Changjie Fan, Zhengxia Zou, Zhenwei Shi, Yong Liu</p> <p>International Conference on Computer Vision (<b>ICCV</b>), 2019,  <a href="https://arxiv.org/abs/1909.01064">[PDF]</a></p>
+
+- skill: NeuroSkinning&#58 Automatic Skin Binding for Production Characters with Deep Graph Networks
+  description: <p>Lijuan Liu, Youyi Zheng, Di Tang, <b>Yi Yuan</b>, Changjie Fan, Kun Zhou</p> <p>ACM Transactions on Graphics (<b>SIGGRAPH</b>), 2019 (<b>Oral</b>),  <a href="http://fuxi.163.com/thesis/neuro.html">[PDF]</a></p>
+
+- skill: Random Forest and Objected-Based Classification for Forest Pest Extraction from UAV Aerial Imagery
+  description: <p><b>Yi Yuan</b>, X. Hu</p> <p><b>ISPRS</b>, 2016 (<b>Oral</b>),  <a href="https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B1/1093/2016/">[PDF]</a></p>
+
+- skill: Deep-Learning-Based Classification for DTM Extraction from ALS Point Cloud
+  description: <p>X. Hu, <b>Yi Yuan*</b></p> <p><b>Remote Sensing</b>, 2016,  <a href="https://www.mdpi.com/2072-4292/8/9/730/htm">[PDF]</a></p>
+
+- skill: Bag-of-Words and Object-Based Classification for Cloud Extraction From Satellite Imagery
+  description: <p><b>Yi Yuan</b>, X. Hu</p> <p><b>JSTARS</b>, 2015,  <a href="https://ieeexplore.ieee.org/document/7112467">[PDF]</a></p>

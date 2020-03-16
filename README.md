@@ -1,98 +1,59 @@
-<h1 align="center">
-  <a href="https://github.com/mtobeiyf/vuepress-homepage" title="Homepage">
-    <img src="https://user-images.githubusercontent.com/5097752/39163721-4c79012c-47ae-11e8-842b-2af72f69cc2c.jpg" width="300px" alt="">
-  </a>
-  <br />
-  Your Awesome Homepage
-</h1>
+# Resume template
 
-<p align="center">
-  Build your site like a Pro :v:
-</p>
+*A simple Jekyll + GitHub Pages powered resume template.*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="">
-  <img src="https://img.shields.io/badge/PR-welcome-brightgreen.svg" alt="">
-</p>
+![img](images/screenshot.png)
 
-<h2>
-  <a href="https://vuepress-homepage.netlify.com" target="_blank" title="Demo">
-    Live Demo
-  </a>
-</h2>
+## Docs
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/mtobeiyf/vuepress-homepage)
+### Running locally
 
-Screenshots:
+To test locally, run the following in your terminal:
 
-| Home/Resume :newspaper: | Projects/Publications :books: |
-| :---: | :---: |
-| <img src="https://user-images.githubusercontent.com/5097752/71707796-8b275880-2dba-11ea-8db0-03172722c35d.png"/> | <img src="https://user-images.githubusercontent.com/5097752/71707797-8b275880-2dba-11ea-8239-c51f4bac6542.png"/> |
+1. Clone repo locally
+1. `bundle install`
+2. `bundle exec jekyll serve`
+3. Open your browser to `localhost:4000`
 
-| About Me :raising_hand: | Docs/Articles :closed_book: |
-| :---: | :---: |
-| <img src="https://user-images.githubusercontent.com/5097752/71707795-8b275880-2dba-11ea-9440-987d542c560c.png"/> | <img src="https://user-images.githubusercontent.com/5097752/71707798-8b275880-2dba-11ea-9777-d9d64ac4ad45.png"/> |
+### Customizing
 
-<h2>
-  <a href="https://vuepress-homepage.netlify.com/guide/" target="_blank" title="Getting Started">
-    Getting Started
-  </a>
-</h2>
+First you'll want to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize.
 
-Check the full documentation here :point_right: [Guide](https://vuepress-homepage.netlify.com/guide/)
+#### Options/configuration
 
-Make sure you have [Node.js](https://nodejs.org) and [yarn](https://yarnpkg.com) installed.
+Most of the basic customization will take place in the `/_config.yml` file. Here is a list of customizations available via `/_config.yml`:
 
-```bash
-# Clone the repo
-git clone https://github.com/mtobeiyf/vuepress-homepage.git
-cd vuepress-homepage
+[...write these out...]
 
-# Install VuePress
-yarn global add vuepress
-# OR npm install -g vuepress
+#### Editing content
 
-# Install dependencies
-yarn
-# OR npm install
+Most of the content configuration will take place in the `/_layouts/resume.html` file. Simply edit the markup there accordingly
 
-# Run
-$ yarn dev
-# OR npm run dev
-```
+### Publishing to GitHub Pages for free
 
-Check your site at `http://127.0.0.1:8080/`
+[GitHub Pages](https://pages.github.com/) will host this for free with your GitHub account. Just make sure you're using a `gh-pages` branch, and the site will automatically be available at `yourusername.github.io/resume-template` (you can rename the repo to resume for your own use if you want it to be available at `yourusername.github.io/resume`). You can also add a CNAME if you want it to be available at a custom domain...
 
-## Features
+### Configuring with your own domain name
 
-- Markdown and emoji supported :smiley:
-- Elegant and minimalistic
-- Customizable and mobile-friendly
-- Multi-language support
-- Powered by [VuePress](https://vuepress.vuejs.org/) and [Vue.js](https://vuejs.org/)
+To setup your GH Pages site with a custom domain, [follow the instructions](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) on the GitHub Help site for that topic.
 
-It's **static**, which means once generated, your site could be deployed anywhere, like [Netlify](https://www.netlify.com/) or [GitHub Pages]()
+### Themes
 
-| Simple Editing | Elegant Output |
-| :---: | :---: |
-| <img src="https://user-images.githubusercontent.com/5097752/39165083-42470364-47b5-11e8-8e1b-e225e6cf4161.png"/> | <img src="https://user-images.githubusercontent.com/5097752/39165092-4af03422-47b5-11e8-986e-02bee0fe6979.jpg"/> |
+Right now resume-template only has one theme. More are coming :soon: though. :heart:
 
-It's **responsive** and **mobile friendly**.
+## Roadmap
 
-| Main | Projects | Doc | Sidebar |
-| :---: | :---: | :---: | :---: |
-| <img src="https://user-images.githubusercontent.com/5097752/39163461-30a0e754-47ad-11e8-84ff-0c6716d6e937.jpg"/> | <img src="https://user-images.githubusercontent.com/5097752/39163230-2c917634-47ac-11e8-9c08-a87336c0bb02.jpg"/> | <img src="https://user-images.githubusercontent.com/5097752/39163235-32001436-47ac-11e8-8a80-f5aa1d639b82.png"/> | <img src="https://user-images.githubusercontent.com/5097752/39163238-368bfb5a-47ac-11e8-81b9-78a38af16dfe.jpg"/> |
+A feature roadmap is [available here](https://github.com/jglovier/resume-template/projects/1). If you features suggestions, please [open a new issue](https://github.com/jglovier/resume-template/issues/new).
 
+## Contributing
 
+If you spot a bug, or want to improve the code, or even make the dummy content better, you can do the following:
 
-## Credit
-
-[VuePress](https://vuepress.vuejs.org/): Vue-powered Static Site Generator
-
-[Vue.js](https://vuejs.org/): The Progressive JavaScript Framework
+1. [Open an issue](https://github.com/jglovier/resume-template/issues/new) describing the bug or feature idea
+2. Fork the project, make changes, and submit a pull request
 
 ## License
 
-Copyright © 2020, Fing
+The code and styles are licensed under the MIT license. [See project license.](LICENSE) Obviously you should not use the content of this demo repo in your own resume. :wink:
 
-Released under the [MIT License](https://opensource.org/licenses/MIT).
+Disclaimer: Use of Homer J. Simpson image and name used under [Fair Use](https://en.wikipedia.org/wiki/Fair_use) for educational purposes. Project license does not apply to use of this material.
